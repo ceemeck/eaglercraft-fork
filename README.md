@@ -1,6 +1,6 @@
-<h1>Eaglercraft Official</h1>
-<p>Official Eaglercraft stuff I archived, completely untouched</p>
-<p>"Official" meaning that it's made by Ayunami or LAX1DUDE</p>
+<h1>Eaglercraft Fork</h1>
+<p>Eaglercraft stuff I archived, completely untouched</p>
+<p>Not really "official" anymore because third party versions are now included</p>
 
 May be outdated!
 
