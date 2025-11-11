@@ -1,9 +1,11 @@
-<h1>Eaglercraft Fork</h1>
-<p>Eaglercraft stuff I archived, completely untouched</p>
-<p>Not really "official" anymore because third party versions are now included</p>
+# The Eaglercraft Archive Channel
 
-May be outdated!
+An archive of many Eaglercraft versions for download and forking.
+
+**This isn't always up to date.**
+
+Be sure to check somewhere else if the last commit was over a month ago. I only remember to update this if I get a notification about it.
 
 
 
-Incase you are doing a hash verification (It's really not needed), remove the version after each file and it should line up with any unmodified copy.
+I highly recommend forking this. It's very likely to be taken down at some point due to all the downloads and since this is Github.
