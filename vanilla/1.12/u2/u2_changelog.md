@@ -1,0 +1,17 @@
+### Eaglercraft 1.12.2 u2
+- Fixed several rendering issues
+- Fixed skybox renderer/fog
+- Fixed summoning entities with passengers
+- Fixed random ticking
+- Fixed divide by zero crash with boats
+- Fixed transparent crosshair
+- Fixed lighting not updating in adjacent chunks
+- Fixed Integrated Server having the wrong thread name
+- Fixed incorrect TPS stats
+- Fixed titles showing across worlds
+- Fixed positioning of buttons on add server screen
+- Fixed immediate continue mode with integrated server
+- Fixed trading with villages
+- **Possibly** fixed weird texture corruption bug
+- Slight performance improvements
+- Cleanup some code
